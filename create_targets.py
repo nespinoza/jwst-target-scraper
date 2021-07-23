@@ -75,7 +75,8 @@ for target in target_info.keys():
         print(target)
         out_string = target+','
         for info in ['Templates', 'Hours', 'PIDs', 'PIs', 'Titles']:
-            out_string += str(all_data[info][i])+','
+            # replace commas by spaces in saved strings:
+            out_string += str(all_data[info][i]).replace(',',' ')+','
         out_string = out_string[:-1]
         out_string += '\n'
         fout.write(out_string)
