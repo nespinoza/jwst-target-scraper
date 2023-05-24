@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Get page data:
-r = requests.get("https://www.stsci.edu/jwst/science-execution/approved-programs/cycle-1-go")
+r = requests.get("https://www.stsci.edu/jwst/science-execution/approved-programs/general-observers/cycle-2-go")
 
 # Soup-ify the webpage data:
 soup = BeautifulSoup(r.content, features="lxml")
@@ -66,7 +66,7 @@ for program_id in df['ID']:
         print('Program ID',program_id,'target extraction failed. Probably theory proposal.')
 
 # Now print all the info in comma-separated machine readable form:
-fout = open('targets_cycle1.csv', 'w')
+fout = open('targets_cycle2.csv', 'w')
 # Write headers out:
 fout.write('Target Name, Instrument Mode, Hours on Mode, Program ID, Program PIs, Program Title\n')
 for target in target_info.keys():
