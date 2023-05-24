@@ -1,0 +1,463 @@
+Target Name, Instrument Mode, Hours on Mode, Program ID, Program PIs, Program Title
+LRL-58,MIRI Medium Resolution Spectroscopy,1.62,2826.0,PI: John Carr,Evolution of Chemical Diversity in Inner Disks: Core Accretion and Pebble Inflow
+LRL-40,MIRI Medium Resolution Spectroscopy,1.70,2826.0,PI: John Carr,Evolution of Chemical Diversity in Inner Disks: Core Accretion and Pebble Inflow
+LRL-55,MIRI Medium Resolution Spectroscopy,1.56,2826.0,PI: John Carr,Evolution of Chemical Diversity in Inner Disks: Core Accretion and Pebble Inflow
+LRL-37,MIRI Medium Resolution Spectroscopy,1.54,2826.0,PI: John Carr,Evolution of Chemical Diversity in Inner Disks: Core Accretion and Pebble Inflow
+LRL-63,MIRI Medium Resolution Spectroscopy,1.63,2826.0,PI: John Carr,Evolution of Chemical Diversity in Inner Disks: Core Accretion and Pebble Inflow
+LRL-9060,MIRI Medium Resolution Spectroscopy,1.53,2826.0,PI: John Carr,Evolution of Chemical Diversity in Inner Disks: Core Accretion and Pebble Inflow
+LRL-32,MIRI Medium Resolution Spectroscopy,1.61,2826.0,PI: John Carr,Evolution of Chemical Diversity in Inner Disks: Core Accretion and Pebble Inflow
+LRL-10352,MIRI Medium Resolution Spectroscopy,2.01,2826.0,PI: John Carr,Evolution of Chemical Diversity in Inner Disks: Core Accretion and Pebble Inflow
+LRL-15,MIRI Medium Resolution Spectroscopy,1.31,2826.0,PI: John Carr,Evolution of Chemical Diversity in Inner Disks: Core Accretion and Pebble Inflow
+LRL-41,MIRI Medium Resolution Spectroscopy,1.53,2826.0,PI: John Carr,Evolution of Chemical Diversity in Inner Disks: Core Accretion and Pebble Inflow
+LRL-36,MIRI Medium Resolution Spectroscopy,1.68,2826.0,PI: John Carr,Evolution of Chemical Diversity in Inner Disks: Core Accretion and Pebble Inflow
+LRL-1933,MIRI Medium Resolution Spectroscopy,1.29,2826.0,PI: John Carr,Evolution of Chemical Diversity in Inner Disks: Core Accretion and Pebble Inflow
+HAT-P-1,MIRI Low Resolution Spectroscopy,10.02,2950.0,PI: Rens Waters,Exploring sulfur dioxide in H/He-rich hot gas giant atmospheres
+HD106315,MIRI Low Resolution Spectroscopy,14.17,2950.0,PI: Rens Waters,Exploring sulfur dioxide in H/He-rich hot gas giant atmospheres
+HD106315,MIRI Low Resolution Spectroscopy,0.39,2950.0,PI: Rens Waters,Exploring sulfur dioxide in H/He-rich hot gas giant atmospheres
+HAT-P-11,MIRI Low Resolution Spectroscopy,8.88,2950.0,PI: Rens Waters,Exploring sulfur dioxide in H/He-rich hot gas giant atmospheres
+HAT-P-1HAT-P-1-BG,MIRI Low Resolution Spectroscopy,0.46,2950.0,PI: Rens Waters,Exploring sulfur dioxide in H/He-rich hot gas giant atmospheres
+HAT-P-11HAT-P-11-BG,MIRI Low Resolution Spectroscopy,0.46,2950.0,PI: Rens Waters,Exploring sulfur dioxide in H/He-rich hot gas giant atmospheres
+WASP-121B,MIRI Low Resolution Spectroscopy,9.06,2961.0,PI: Paul Molliere,Vaporized rocks: Detecting silicate cloud precursors in ultra-hot Jupiters
+2MASSJ16042165-2130284,MIRI Medium Resolution Spectroscopy,1.54,2970.0,PI: Ilaria Pascucci,The volatile content and C/O ratio of old disks: Constraints on young planet atmospheres
+2MASS-J16064794-1841437,MIRI Medium Resolution Spectroscopy,2.64,2970.0,PI: Ilaria Pascucci,The volatile content and C/O ratio of old disks: Constraints on young planet atmospheres
+2MASSJ16142029-1906481,MIRI Medium Resolution Spectroscopy,1.28,2970.0,PI: Ilaria Pascucci,The volatile content and C/O ratio of old disks: Constraints on young planet atmospheres
+2MASSJ16153456-2242421,MIRI Medium Resolution Spectroscopy,1.30,2970.0,PI: Ilaria Pascucci,The volatile content and C/O ratio of old disks: Constraints on young planet atmospheres
+2MASSJ16075796-2040087,MIRI Medium Resolution Spectroscopy,1.35,2970.0,PI: Ilaria Pascucci,The volatile content and C/O ratio of old disks: Constraints on young planet atmospheres
+2MASSJ16052157-1821412,MIRI Medium Resolution Spectroscopy,1.53,2970.0,PI: Ilaria Pascucci,The volatile content and C/O ratio of old disks: Constraints on young planet atmospheres
+2MASSJ16123916-1859284,MIRI Medium Resolution Spectroscopy,1.63,2970.0,PI: Ilaria Pascucci,The volatile content and C/O ratio of old disks: Constraints on young planet atmospheres
+2MASSJ16062196-1928445,MIRI Medium Resolution Spectroscopy,2.02,2970.0,PI: Ilaria Pascucci,The volatile content and C/O ratio of old disks: Constraints on young planet atmospheres
+2MASSJ16035767-2031055,MIRI Medium Resolution Spectroscopy,1.54,2970.0,PI: Ilaria Pascucci,The volatile content and C/O ratio of old disks: Constraints on young planet atmospheres
+2MASSJ16141107-2305362,MIRI Medium Resolution Spectroscopy,1.56,2970.0,PI: Ilaria Pascucci,The volatile content and C/O ratio of old disks: Constraints on young planet atmospheres
+2MASSJ16153220-2010236,MIRI Medium Resolution Spectroscopy,1.67,2970.0,PI: Ilaria Pascucci,The volatile content and C/O ratio of old disks: Constraints on young planet atmospheres
+2MASS-J16120505-2043404,MIRI Medium Resolution Spectroscopy,1.94,2970.0,PI: Ilaria Pascucci,The volatile content and C/O ratio of old disks: Constraints on young planet atmospheres
+2MASSJ16111534-1757214,MIRI Medium Resolution Spectroscopy,1.55,2970.0,PI: Ilaria Pascucci,The volatile content and C/O ratio of old disks: Constraints on young planet atmospheres
+2MASSJ16064385-1908056,MIRI Medium Resolution Spectroscopy,2.62,2970.0,PI: Ilaria Pascucci,The volatile content and C/O ratio of old disks: Constraints on young planet atmospheres
+HD-1100582MASSJ12394454-4911583,NIRSpec Fixed Slit Spectroscopy,1.68,2981.0,PI: Luca Matra,Exocometary molecules at the epoch of volatile delivery
+OPH-1-GY92,MIRI Medium Resolution Spectroscopy,1.47,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-2-J1627-2420,MIRI Medium Resolution Spectroscopy,2.40,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-3-WL3,MIRI Medium Resolution Spectroscopy,1.58,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-4-ELIA-2-32,MIRI Medium Resolution Spectroscopy,1.61,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-5-GY92-301,MIRI Medium Resolution Spectroscopy,1.49,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-6-GY92-312,MIRI Medium Resolution Spectroscopy,1.71,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-7-IRAS-16285-2355,MIRI Medium Resolution Spectroscopy,1.33,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-8-J16230544-2302566,MIRI Medium Resolution Spectroscopy,2.33,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-9-GY92-33,MIRI Medium Resolution Spectroscopy,1.62,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-10-BBRCG-39OPH-10-BBRCG-39-BKG,MIRI Medium Resolution Spectroscopy,1.76,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+LUPUS-1-SZ65LUPUS-8-SZ-66,MIRI Medium Resolution Spectroscopy,3.93,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+LUPUS-3-UCAC3-104-204438,MIRI Medium Resolution Spectroscopy,2.30,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+LUPUS-4-V-HM-LUP,MIRI Medium Resolution Spectroscopy,2.35,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+LUPUS-5-SZ-77,MIRI Medium Resolution Spectroscopy,1.99,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+LUPUS-6-J16085324-3914401,MIRI Medium Resolution Spectroscopy,2.44,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+LUPUS-7-SZ-131,MIRI Medium Resolution Spectroscopy,2.35,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+LUPUS-9-SZ-95,MIRI Medium Resolution Spectroscopy,2.53,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+UPPSCO-1-J16120668-3010270,MIRI Medium Resolution Spectroscopy,2.35,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+UPPSCO-2-J1605-2023,MIRI Medium Resolution Spectroscopy,2.98,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+UPPSCO-3-J1602-2257,MIRI Medium Resolution Spectroscopy,2.46,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+UPPSCO-4-J1611-1918,MIRI Medium Resolution Spectroscopy,1.98,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+UPPSCO-5-J1614-2332,MIRI Medium Resolution Spectroscopy,2.44,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+UPPSCO-6-J1616-2521,MIRI Medium Resolution Spectroscopy,2.50,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+UPPSCO-7-J1620-2442,MIRI Medium Resolution Spectroscopy,2.93,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+UPPSCO-8-J1622-2511,MIRI Medium Resolution Spectroscopy,2.93,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+UPPSCO-9-J1608-1930,MIRI Medium Resolution Spectroscopy,2.36,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+UPPSCO-10-J1609-1908,MIRI Medium Resolution Spectroscopy,2.02,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-1-GY92-BKG,MIRI Medium Resolution Spectroscopy,0.41,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-2-J1627-2420-BKG,MIRI Medium Resolution Spectroscopy,0.62,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-3-WL3-BKG,MIRI Medium Resolution Spectroscopy,0.41,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-4-ELIA-2-32-BKG,MIRI Medium Resolution Spectroscopy,0.42,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-5-GY92-301OPH-5-GY92-301-BKG,MIRI Medium Resolution Spectroscopy,0.58,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-6-GY92-312-BKG,MIRI Medium Resolution Spectroscopy,0.42,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-7-IRAS-16285-2355-BKG,MIRI Medium Resolution Spectroscopy,0.34,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-8-J16230544-2302566-BKG,MIRI Medium Resolution Spectroscopy,0.58,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-9-GY92-33-BKG,MIRI Medium Resolution Spectroscopy,0.41,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+OPH-10-BBRCG-39-BKG,MIRI Medium Resolution Spectroscopy,0.41,3034.0,PI: Ke Zhang,Building on ALMA: A JWST legacy survey of the chemical evolution of planet-forming disks
+TRAPPIST-1,MIRI Imaging,26.76,3077.0,PI: Michael Gillon  Co-PI: Elsa Ducrot,TRAPPIST-1 Planets: Atmospheres Or Not?
+TRAPPIST-1,MIRI Imaging,26.03,3077.0,PI: Michael Gillon  Co-PI: Elsa Ducrot,TRAPPIST-1 Planets: Atmospheres Or Not?
+TRAPPIST-1,MIRI Imaging,17.32,3077.0,PI: Michael Gillon  Co-PI: Elsa Ducrot,TRAPPIST-1 Planets: Atmospheres Or Not?
+HR-4796A,NIRCam Coronagraphic Imaging,2.25,3087.0,PI: Bin Ren,Reaching ~0.1 arcsec inner working angle for NIRCam Coronagraphic imaging
+HR-4796A,NIRCam Coronagraphic Imaging,1.93,3087.0,PI: Bin Ren,Reaching ~0.1 arcsec inner working angle for NIRCam Coronagraphic imaging
+HR-4735,NIRCam Coronagraphic Imaging,1.86,3087.0,PI: Bin Ren,Reaching ~0.1 arcsec inner working angle for NIRCam Coronagraphic imaging
+WISEA-J080822.18-644357.3,MIRI Medium Resolution Spectroscopy,2.57,3153.0,PI: Feng Long,Why do some 50 Myr old stars still accrete?
+2MASS-J05010082-4337102,MIRI Medium Resolution Spectroscopy,2.57,3153.0,PI: Feng Long,Why do some 50 Myr old stars still accrete?
+2MASS-J02265658-5327032,MIRI Medium Resolution Spectroscopy,5.31,3153.0,PI: Feng Long,Why do some 50 Myr old stars still accrete?
+2MASS-J06320799-6810419,MIRI Medium Resolution Spectroscopy,2.46,3153.0,PI: Feng Long,Why do some 50 Myr old stars still accrete?
+2MASS-J15460752-6258042,MIRI Medium Resolution Spectroscopy,1.91,3153.0,PI: Feng Long,Why do some 50 Myr old stars still accrete?
+2MASS-J04463413-2627559-A2MASS-J04463413-2627559-B,MIRI Medium Resolution Spectroscopy,4.60,3153.0,PI: Feng Long,Why do some 50 Myr old stars still accrete?
+2MASS-J09490073-7138034-A2MASS-J09490073-7138034-B,MIRI Medium Resolution Spectroscopy,3.06,3153.0,PI: Feng Long,Why do some 50 Myr old stars still accrete?
+WASP-94AWASP-94A-TA,NIRSpec Bright Object Time Series,10.36,3154.0,PI: Eva-Maria Ahrer,Testing the C/O Ratio Prediction for Hot Jupiters from Disk-Free Migration
+TOI-3984,NIRSpec Bright Object Time Series,7.71,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+TOI-3984,NIRSpec Bright Object Time Series,7.71,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+TOI-3984,NIRSpec Bright Object Time Series,7.71,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+TOI-3757,NIRSpec Bright Object Time Series,7.47,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+TOI-3757,NIRSpec Bright Object Time Series,7.47,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+HATS-6,NIRSpec Bright Object Time Series,7.62,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+HATS-6,NIRSpec Bright Object Time Series,7.62,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+HATS-75,NIRSpec Bright Object Time Series,7.39,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+HATS-75,NIRSpec Bright Object Time Series,7.39,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+HATS-75,NIRSpec Bright Object Time Series,7.39,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+TOI-5293,NIRSpec Bright Object Time Series,7.44,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+TOI-5293,NIRSpec Bright Object Time Series,7.44,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+TOI-3714,NIRSpec Bright Object Time Series,7.16,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+TOI-3714,NIRSpec Bright Object Time Series,7.16,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+TOI-3714,NIRSpec Bright Object Time Series,7.16,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+TOI-5205,NIRSpec Bright Object Time Series,6.85,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+TOI-5205,NIRSpec Bright Object Time Series,6.85,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+TOI-5205,NIRSpec Bright Object Time Series,6.85,3171.0,PI: Shubham Kanodia  Co-PIs: Jessica Libby-Roberts and Caleb Canas,Red Dwarfs and the Seven Giants: First Insights into the Atmospheres of Giant Exoplanets around M-dwarf Stars
+TWA-28,NIRSpec IFU Spectroscopy,1.19,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-28,NIRSpec IFU Spectroscopy,0.90,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,1.11,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+TWA-27-AB,NIRSpec IFU Spectroscopy,0.68,3181.0,PI: Yifan Zhou,Monitor a variable planetary mass companion with NIRSpec IFU
+RZPSC,MIRI Medium Resolution Spectroscopy,1.57,3189.0,PI: Kate Su,The Nature of Mineralogical Dichotomy in Extreme Debris Disks
+J0605,MIRI Medium Resolution Spectroscopy,1.57,3189.0,PI: Kate Su,The Nature of Mineralogical Dichotomy in Extreme Debris Disks
+J0609,MIRI Medium Resolution Spectroscopy,1.11,3189.0,PI: Kate Su,The Nature of Mineralogical Dichotomy in Extreme Debris Disks
+J0611,MIRI Medium Resolution Spectroscopy,1.57,3189.0,PI: Kate Su,The Nature of Mineralogical Dichotomy in Extreme Debris Disks
+J2043,MIRI Medium Resolution Spectroscopy,1.57,3189.0,PI: Kate Su,The Nature of Mineralogical Dichotomy in Extreme Debris Disks
+J0925,MIRI Medium Resolution Spectroscopy,1.57,3189.0,PI: Kate Su,The Nature of Mineralogical Dichotomy in Extreme Debris Disks
+J2301,MIRI Medium Resolution Spectroscopy,1.79,3189.0,PI: Kate Su,The Nature of Mineralogical Dichotomy in Extreme Debris Disks
+J1213,MIRI Medium Resolution Spectroscopy,1.79,3189.0,PI: Kate Su,The Nature of Mineralogical Dichotomy in Extreme Debris Disks
+J0712,MIRI Medium Resolution Spectroscopy,1.79,3189.0,PI: Kate Su,The Nature of Mineralogical Dichotomy in Extreme Debris Disks
+J1044,MIRI Medium Resolution Spectroscopy,1.79,3189.0,PI: Kate Su,The Nature of Mineralogical Dichotomy in Extreme Debris Disks
+HD166S9SD061017TAHD166,MIRI Medium Resolution Spectroscopy,1.49,3189.0,PI: Kate Su,The Nature of Mineralogical Dichotomy in Extreme Debris Disks
+SZ-65,MIRI Medium Resolution Spectroscopy,2.04,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+SZ-66,MIRI Medium Resolution Spectroscopy,1.72,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+FN-TAU,MIRI Medium Resolution Spectroscopy,1.29,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+CW-TAU,MIRI Medium Resolution Spectroscopy,1.19,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+HQ-TAU,MIRI Medium Resolution Spectroscopy,1.55,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+SZ-91,MIRI Medium Resolution Spectroscopy,2.53,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+SZ-123A,MIRI Medium Resolution Spectroscopy,1.95,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+SZ-111,MIRI Medium Resolution Spectroscopy,1.97,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+J16083070-3828268,MIRI Medium Resolution Spectroscopy,1.92,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+SZ-95,MIRI Medium Resolution Spectroscopy,2.41,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+SZ-130,MIRI Medium Resolution Spectroscopy,1.91,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+V836-TAU,MIRI Medium Resolution Spectroscopy,2.40,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+HO-TAU,MIRI Medium Resolution Spectroscopy,2.00,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+16124373-3815031,MIRI Medium Resolution Spectroscopy,1.59,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+SZ-96,MIRI Medium Resolution Spectroscopy,1.52,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+SZ-90,MIRI Medium Resolution Spectroscopy,1.58,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+SZ-118,MIRI Medium Resolution Spectroscopy,1.55,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+IP-TAU,MIRI Medium Resolution Spectroscopy,1.67,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+SZ-77,MIRI Medium Resolution Spectroscopy,1.58,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+DS-TAU,MIRI Medium Resolution Spectroscopy,1.62,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+GI-TAU,MIRI Medium Resolution Spectroscopy,1.58,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+DE-TAU,MIRI Medium Resolution Spectroscopy,2.04,3228.0,PI: Ilse Cleeves,The volatile inventory of the terrestrial planet forming zone: A study of transport from the outer to the inner disk with JWST and ALMA
+LTT9779LTT9779-ACQUISITION-TARGET,NIRSpec Bright Object Time Series,24.98,3231.0,PI: Ian Crossfield,Panchromatic Phase Curve of the Highest-S/N Hot Neptune
+KEPLER-86B,NIRSpec Bright Object Time Series,23.76,3235.0,PI: Jonathan Fortney,C N O in a Temperate Jupiter: Bridging the Gap Between Solar-System and Exoplanet Atmospheres
+LKCA15,MIRI Coronagraphic Imaging,2.03,3254.0,PI: Myriam Benisty  Co-PIs: Richard Teague  Misato Fukagawa  Stefano Facchini  and Christopher Pinte,Direct detection of kinematically-detected protoplanet candidates
+LKCA15-SCI-BACKGROUND,MIRI Coronagraphic Imaging,0.77,3254.0,PI: Myriam Benisty  Co-PIs: Richard Teague  Misato Fukagawa  Stefano Facchini  and Christopher Pinte,Direct detection of kinematically-detected protoplanet candidates
+LKCA15-SCI-BACKGROUND,MIRI Coronagraphic Imaging,0.28,3254.0,PI: Myriam Benisty  Co-PIs: Richard Teague  Misato Fukagawa  Stefano Facchini  and Christopher Pinte,Direct detection of kinematically-detected protoplanet candidates
+LKCA15-REFERENCE,MIRI Coronagraphic Imaging,1.06,3254.0,PI: Myriam Benisty  Co-PIs: Richard Teague  Misato Fukagawa  Stefano Facchini  and Christopher Pinte,Direct detection of kinematically-detected protoplanet candidates
+J1842,MIRI Coronagraphic Imaging,2.57,3254.0,PI: Myriam Benisty  Co-PIs: Richard Teague  Misato Fukagawa  Stefano Facchini  and Christopher Pinte,Direct detection of kinematically-detected protoplanet candidates
+J1842-SCI-BACKGROUND,MIRI Coronagraphic Imaging,0.76,3254.0,PI: Myriam Benisty  Co-PIs: Richard Teague  Misato Fukagawa  Stefano Facchini  and Christopher Pinte,Direct detection of kinematically-detected protoplanet candidates
+J1842-SCI-BACKGROUND,MIRI Coronagraphic Imaging,0.28,3254.0,PI: Myriam Benisty  Co-PIs: Richard Teague  Misato Fukagawa  Stefano Facchini  and Christopher Pinte,Direct detection of kinematically-detected protoplanet candidates
+J1842-REFERENCE,MIRI Coronagraphic Imaging,1.12,3254.0,PI: Myriam Benisty  Co-PIs: Richard Teague  Misato Fukagawa  Stefano Facchini  and Christopher Pinte,Direct detection of kinematically-detected protoplanet candidates
+J1615,MIRI Coronagraphic Imaging,2.18,3254.0,PI: Myriam Benisty  Co-PIs: Richard Teague  Misato Fukagawa  Stefano Facchini  and Christopher Pinte,Direct detection of kinematically-detected protoplanet candidates
+J1615-SCI-BACKGROUND,MIRI Coronagraphic Imaging,0.68,3254.0,PI: Myriam Benisty  Co-PIs: Richard Teague  Misato Fukagawa  Stefano Facchini  and Christopher Pinte,Direct detection of kinematically-detected protoplanet candidates
+J1615-SCI-BACKGROUND,MIRI Coronagraphic Imaging,0.28,3254.0,PI: Myriam Benisty  Co-PIs: Richard Teague  Misato Fukagawa  Stefano Facchini  and Christopher Pinte,Direct detection of kinematically-detected protoplanet candidates
+J1615-REFERENCE,MIRI Coronagraphic Imaging,1.06,3254.0,PI: Myriam Benisty  Co-PIs: Richard Teague  Misato Fukagawa  Stefano Facchini  and Christopher Pinte,Direct detection of kinematically-detected protoplanet candidates
+SYCHA,MIRI Coronagraphic Imaging,2.57,3254.0,PI: Myriam Benisty  Co-PIs: Richard Teague  Misato Fukagawa  Stefano Facchini  and Christopher Pinte,Direct detection of kinematically-detected protoplanet candidates
+SYCHA-BACKGROUND,MIRI Coronagraphic Imaging,0.68,3254.0,PI: Myriam Benisty  Co-PIs: Richard Teague  Misato Fukagawa  Stefano Facchini  and Christopher Pinte,Direct detection of kinematically-detected protoplanet candidates
+SYCHA-BACKGROUND,MIRI Coronagraphic Imaging,0.28,3254.0,PI: Myriam Benisty  Co-PIs: Richard Teague  Misato Fukagawa  Stefano Facchini  and Christopher Pinte,Direct detection of kinematically-detected protoplanet candidates
+SYCHA-REFERENCE,MIRI Coronagraphic Imaging,1.24,3254.0,PI: Myriam Benisty  Co-PIs: Richard Teague  Misato Fukagawa  Stefano Facchini  and Christopher Pinte,Direct detection of kinematically-detected protoplanet candidates
+TOI-1685TOI-1685.ACQ,NIRSpec Bright Object Time Series,23.04,3263.0,PI: Rafael Luque,The First Atmospheric Study of a Bona Fide Water World
+GD-56,MIRI Medium Resolution Spectroscopy,2.43,3271.0,PI: Kate Su,Characterizing the End Stage of Exoplanetary Systems
+GD-133,MIRI Medium Resolution Spectroscopy,3.09,3271.0,PI: Kate Su,Characterizing the End Stage of Exoplanetary Systems
+WD1150,MIRI Medium Resolution Spectroscopy,3.09,3271.0,PI: Kate Su,Characterizing the End Stage of Exoplanetary Systems
+GD-16,MIRI Imaging,0.36,3271.0,PI: Kate Su,Characterizing the End Stage of Exoplanetary Systems
+GD-16,MIRI Medium Resolution Spectroscopy,4.26,3271.0,PI: Kate Su,Characterizing the End Stage of Exoplanetary Systems
+GD-40,MIRI Imaging,0.40,3271.0,PI: Kate Su,Characterizing the End Stage of Exoplanetary Systems
+GD-40,MIRI Medium Resolution Spectroscopy,6.11,3271.0,PI: Kate Su,Characterizing the End Stage of Exoplanetary Systems
+HD-133112,NIRISS Single-Object Slitless Spectroscopy,13.15,3279.0,PI: Jens Hoeijmakers,Calibrating NIRISS order 3 for very bright time-series observations with JWST
+K2-22B,MIRI Low Resolution Spectroscopy,3.86,3315.0,PI: Jason Wright  Co-PI: Nick Tusay,Measuring the Interior Composition of a Terrestrial Planet
+K2-22B,MIRI Low Resolution Spectroscopy,3.86,3315.0,PI: Jason Wright  Co-PI: Nick Tusay,Measuring the Interior Composition of a Terrestrial Planet
+K2-22B,MIRI Low Resolution Spectroscopy,15.33,3315.0,PI: Jason Wright  Co-PI: Nick Tusay,Measuring the Interior Composition of a Terrestrial Planet
+-14-HER,NIRCam Coronagraphic Imaging,2.61,3337.0,PI: Daniella Bardalez Gagliuffi  Co-PI: William Balmer,Solving a Solar Neighborhood Crime Scene by Imaging 14 Her c
+-14-HER,NIRCam Coronagraphic Imaging,2.29,3337.0,PI: Daniella Bardalez Gagliuffi  Co-PI: William Balmer,Solving a Solar Neighborhood Crime Scene by Imaging 14 Her c
+HD-145800-PSF-REFERENCE,NIRCam Coronagraphic Imaging,2.55,3337.0,PI: Daniella Bardalez Gagliuffi  Co-PI: William Balmer,Solving a Solar Neighborhood Crime Scene by Imaging 14 Her c
+TOI-11302MASSJ19053016-4126418,NIRSpec Bright Object Time Series,7.29,3385.0,PI: Chelsea Huang  Co-PI: Andrew Vanderburg,The first comparative atmospheric study of a Jovian planet and a sub-Neptune in the TOI-1130 system
+TOI-11302MASSJ19053016-4126418,NIRSpec Bright Object Time Series,7.41,3385.0,PI: Chelsea Huang  Co-PI: Andrew Vanderburg,The first comparative atmospheric study of a Jovian planet and a sub-Neptune in the TOI-1130 system
+TOI-1130,NIRISS Single-Object Slitless Spectroscopy,7.75,3385.0,PI: Chelsea Huang  Co-PI: Andrew Vanderburg,The first comparative atmospheric study of a Jovian planet and a sub-Neptune in the TOI-1130 system
+TOI-1130,NIRISS Single-Object Slitless Spectroscopy,7.35,3385.0,PI: Chelsea Huang  Co-PI: Andrew Vanderburg,The first comparative atmospheric study of a Jovian planet and a sub-Neptune in the TOI-1130 system
+J1757132,NIRSpec IFU Spectroscopy,6.57,3399.0,PI: Marshall Perrin  Co-PI: Jean-Baptiste Ruffio,An Empirical Calibration of the NIRSpec IFU Point Spread Function to Enable High Contrast Imaging Spectroscopy
+HD163466OFFSET-TA-STAR-FOR-HD163466,NIRSpec IFU Spectroscopy,4.83,3399.0,PI: Marshall Perrin  Co-PI: Jean-Baptiste Ruffio,An Empirical Calibration of the NIRSpec IFU Point Spread Function to Enable High Contrast Imaging Spectroscopy
+WISEP-J075108.79-763449.6,NIRSpec Fixed Slit Spectroscopy,6.65,3514.0,PI: Mickael Bonnefoy  Co-PIs: Caroline Morley and Gael Chauvin,Panchromatic view of an Adolescent and Frigid Jovian Exoplanet
+WISEP-J075108.79-763449.6,MIRI Low Resolution Spectroscopy,1.57,3514.0,PI: Mickael Bonnefoy  Co-PIs: Caroline Morley and Gael Chauvin,Panchromatic view of an Adolescent and Frigid Jovian Exoplanet
+51-ERI-B04373380-0228391,NIRSpec Fixed Slit Spectroscopy,2.60,3522.0,PI: Jean-Baptiste Ruffio,Spectroscopic characterization of the smallest and coolest directly imaged exoplanet 51 Eridani b
+51-ERI-B04373380-0228391,NIRSpec Fixed Slit Spectroscopy,3.32,3522.0,PI: Jean-Baptiste Ruffio,Spectroscopic characterization of the smallest and coolest directly imaged exoplanet 51 Eridani b
+51-ERI-SPECKLES04373380-0228391,NIRSpec Fixed Slit Spectroscopy,2.60,3522.0,PI: Jean-Baptiste Ruffio,Spectroscopic characterization of the smallest and coolest directly imaged exoplanet 51 Eridani b
+51-ERI-SPECKLES04373380-0228391,NIRSpec Fixed Slit Spectroscopy,2.60,3522.0,PI: Jean-Baptiste Ruffio,Spectroscopic characterization of the smallest and coolest directly imaged exoplanet 51 Eridani b
+WASP-47WASP-47-TA,NIRSpec Bright Object Time Series,8.28,3615.0,PI: Sebastian Zieba,Exploring the boundary between rocky and gaseous planets with WASP-47 e
+WASP-47WASP-47-TA,NIRSpec Bright Object Time Series,8.28,3615.0,PI: Sebastian Zieba,Exploring the boundary between rocky and gaseous planets with WASP-47 e
+GD-140,MIRI Imaging,2.81,3621.0,PI: Alexander Venner  Co-PIs: Mary Limbach and Andrew Vanderburg,Confirming a Giant Planet around the White Dwarf GD 140
+GJ504-BGJ504-A,MIRI Medium Resolution Spectroscopy,4.59,3647.0,PI: Polychronis Patapis  Co-PI: Mathilde Malin,GJ504 b is really cool: A new atmospheric window into Jupiter’s evolution with JWST/MIRI
+GJ504-BGJ504-A,MIRI Medium Resolution Spectroscopy,3.87,3647.0,PI: Polychronis Patapis  Co-PI: Mathilde Malin,GJ504 b is really cool: A new atmospheric window into Jupiter’s evolution with JWST/MIRI
+HD-129974,MIRI Medium Resolution Spectroscopy,2.22,3647.0,PI: Polychronis Patapis  Co-PI: Mathilde Malin,GJ504 b is really cool: A new atmospheric window into Jupiter’s evolution with JWST/MIRI
+WD0141-675,MIRI Imaging,3.92,3652.0,PI: Mary Limbach  Co-PIs: Alexander Venner and Andrew Vanderburg,Age and Confirmation of White Dwarf Exoplanet Candidate WD 0141-675b
+WD0141-675,NIRSpec Fixed Slit Spectroscopy,0.85,3652.0,PI: Mary Limbach  Co-PIs: Alexander Venner and Andrew Vanderburg,Age and Confirmation of White Dwarf Exoplanet Candidate WD 0141-675b
+TWA7,MIRI Coronagraphic Imaging,3.35,3662.0,PI: Anne-Marie Lagrange  Co-PI: Clement Perrot,Imaging shepherding and carving planets in debris disks
+TWA7,MIRI Coronagraphic Imaging,3.01,3662.0,PI: Anne-Marie Lagrange  Co-PI: Clement Perrot,Imaging shepherding and carving planets in debris disks
+TWA7-BACKGROUND,MIRI Coronagraphic Imaging,2.61,3662.0,PI: Anne-Marie Lagrange  Co-PI: Clement Perrot,Imaging shepherding and carving planets in debris disks
+CD-23-9765,MIRI Coronagraphic Imaging,2.06,3662.0,PI: Anne-Marie Lagrange  Co-PI: Clement Perrot,Imaging shepherding and carving planets in debris disks
+CD-23-9765-BACKGROUND,MIRI Coronagraphic Imaging,0.57,3662.0,PI: Anne-Marie Lagrange  Co-PI: Clement Perrot,Imaging shepherding and carving planets in debris disks
+HD-181327,MIRI Coronagraphic Imaging,3.35,3662.0,PI: Anne-Marie Lagrange  Co-PI: Clement Perrot,Imaging shepherding and carving planets in debris disks
+HD-181327,MIRI Coronagraphic Imaging,3.01,3662.0,PI: Anne-Marie Lagrange  Co-PI: Clement Perrot,Imaging shepherding and carving planets in debris disks
+HD-181327-BACKGROUND,MIRI Coronagraphic Imaging,2.60,3662.0,PI: Anne-Marie Lagrange  Co-PI: Clement Perrot,Imaging shepherding and carving planets in debris disks
+HD-183577,MIRI Coronagraphic Imaging,1.84,3662.0,PI: Anne-Marie Lagrange  Co-PI: Clement Perrot,Imaging shepherding and carving planets in debris disks
+HD-183577-BACKGROUND,MIRI Coronagraphic Imaging,0.53,3662.0,PI: Anne-Marie Lagrange  Co-PI: Clement Perrot,Imaging shepherding and carving planets in debris disks
+WD1337+705,MIRI Low Resolution Spectroscopy,1.38,3690.0,PI: Jay Farihi,The rest of the iceberg: Dusty white dwarfs exposed by JWST
+WASP-69GAIA-DR3-6910752844854895360,NIRSpec Bright Object Time Series,8.28,3712.0,PI: Patricio Cubillos,Warm Jupiters Dis-equilibrium and Thermo-chemistry in Transmission Spectroscopy
+WASP-69,MIRI Low Resolution Spectroscopy,8.30,3712.0,PI: Patricio Cubillos,Warm Jupiters Dis-equilibrium and Thermo-chemistry in Transmission Spectroscopy
+GJ-3473,MIRI Imaging,4.86,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+GJ-3473,MIRI Imaging,4.86,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+GJ-3473,MIRI Imaging,4.86,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+GJ-3473,MIRI Imaging,4.86,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+GJ-357,MIRI Imaging,5.67,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+HD-260655,MIRI Imaging,6.16,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+HD-260655,MIRI Imaging,6.16,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+L-98-59,MIRI Imaging,4.89,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+L-98-59,NIRSpec Bright Object Time Series,4.38,3942.0,PI: Mario Damiano,Probing the volcanic outgassing activity of a warm sub-Earth planet
+L-98-59,NIRSpec Bright Object Time Series,4.38,3942.0,PI: Mario Damiano,Probing the volcanic outgassing activity of a warm sub-Earth planet
+L-98-59,NIRSpec Bright Object Time Series,4.38,3942.0,PI: Mario Damiano,Probing the volcanic outgassing activity of a warm sub-Earth planet
+LHS-1140,MIRI Imaging,5.12,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+LHS-1140,MIRI Imaging,5.12,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+LHS-1140,MIRI Imaging,5.12,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+LHS-1478,MIRI Imaging,4.61,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+LHS-1478,MIRI Imaging,4.61,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+LTT-3780,MIRI Imaging,4.65,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+LTT-3780,MIRI Imaging,4.65,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+TOI-1468,MIRI Imaging,5.05,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+TOI-1468,MIRI Imaging,5.05,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+TOI-1468,MIRI Imaging,5.05,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+L-231-32,MIRI Imaging,5.94,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+L-231-32,MIRI Imaging,5.94,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+L-231-32,MIRI Imaging,5.94,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+L-231-32,MIRI Imaging,5.94,3730.0,PI: Hannah Diamond-Lowe  Co-PI: Joao Mendonca,The Hot Rocks Survey: Testing 9 Irradiated Terrestrial Exoplanets for Atmospheres
+2MASS-J02531581+0003087,NIRSpec Bright Object Time Series,16.56,3784.0,PI: Michael Zhang,Mapping the atmosphere or surface of a hot ultra-short-period super Earth
+0510+2315,NIRSpec Fixed Slit Spectroscopy,1.71,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+0510+2315,MIRI Low Resolution Spectroscopy,1.07,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+0510+2315,MIRI Imaging,0.69,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+0529-3401,NIRSpec Fixed Slit Spectroscopy,2.28,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+0529-3401,MIRI Low Resolution Spectroscopy,0.96,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+0529-3401,MIRI Imaging,0.69,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+0611-6931,NIRSpec Fixed Slit Spectroscopy,1.33,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+0611-6931,MIRI Low Resolution Spectroscopy,0.67,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+0611-6931,MIRI Imaging,0.68,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+1814-7354,NIRSpec Fixed Slit Spectroscopy,1.59,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+1814-7354,MIRI Low Resolution Spectroscopy,0.67,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+1814-7354,MIRI Imaging,0.68,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+2329+407,NIRSpec Fixed Slit Spectroscopy,1.54,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+2329+407,MIRI Low Resolution Spectroscopy,0.67,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+2329+407,MIRI Imaging,0.68,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+0420-731,NIRSpec Fixed Slit Spectroscopy,1.68,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+0420-731,MIRI Low Resolution Spectroscopy,0.74,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+0420-731,MIRI Imaging,0.68,3786.0,PI: Andrew Swan,Sizing up silicates at six small stars: Characterising planetary debris orbiting white dwarfs
+TOI-270ACQUISITION,NIRSpec Bright Object Time Series,7.23,3818.0,PI: Cyril Gapp  Co-PIs: Luis Welbanks  Dana Louie  Jake Taylor  and Thomas Mikal-Evans,To be or not to be in equilibrium: Probing disequilibrium chemistry on the warm sub-Neptune TOI-270 d
+TRES-4TRES-4-TA,NIRSpec Bright Object Time Series,9.91,3838.0,PI: James Kirk  Co-PI: Eva-Maria Ahrer,Does atmospheric composition actually trace formation? Observing aligned vs misaligned hot Jupiters as a testbed
+KELT-7KELT-7-TA,NIRSpec Bright Object Time Series,9.78,3838.0,PI: James Kirk  Co-PI: Eva-Maria Ahrer,Does atmospheric composition actually trace formation? Observing aligned vs misaligned hot Jupiters as a testbed
+NGTS-2NGTS-2-TA,NIRSpec Bright Object Time Series,11.14,3838.0,PI: James Kirk  Co-PI: Eva-Maria Ahrer,Does atmospheric composition actually trace formation? Observing aligned vs misaligned hot Jupiters as a testbed
+WASP-15WASP-15-TA,NIRSpec Bright Object Time Series,10.04,3838.0,PI: James Kirk  Co-PI: Eva-Maria Ahrer,Does atmospheric composition actually trace formation? Observing aligned vs misaligned hot Jupiters as a testbed
+HAT-P-30HAT-P-30-TA,NIRSpec Bright Object Time Series,8.34,3838.0,PI: James Kirk  Co-PI: Eva-Maria Ahrer,Does atmospheric composition actually trace formation? Observing aligned vs misaligned hot Jupiters as a testbed
+G-7-34,NIRCam Coronagraphic Imaging,2.94,3840.0,PI: Ell Bogat  Co-PI: Joshua Schlieder,JWST NIRCam Confirmation of the First Directly Imaged Sub-Saturn Mass Exoplanet
+G-7-34,NIRCam Coronagraphic Imaging,2.63,3840.0,PI: Ell Bogat  Co-PI: Joshua Schlieder,JWST NIRCam Confirmation of the First Directly Imaged Sub-Saturn Mass Exoplanet
+HIP17695,NIRCam Coronagraphic Imaging,2.93,3840.0,PI: Ell Bogat  Co-PI: Joshua Schlieder,JWST NIRCam Confirmation of the First Directly Imaged Sub-Saturn Mass Exoplanet
+TOI-561,NIRSpec Bright Object Time Series,44.23,3860.0,PI: Johanna Teske,Phase Curve Observations of TOI-561 b To Study Atmosphere-Interior Exchange
+DENIS-J155556.0-204518,MIRI Medium Resolution Spectroscopy,2.37,3886.0,PI: Sierra Grant,Probing carbon chemistry and dust in the planet-forming zones of brown dwarf disks
+GY92-3,MIRI Medium Resolution Spectroscopy,1.36,3886.0,PI: Sierra Grant,Probing carbon chemistry and dust in the planet-forming zones of brown dwarf disks
+OPH-2349.8-2601,MIRI Medium Resolution Spectroscopy,4.38,3886.0,PI: Sierra Grant,Probing carbon chemistry and dust in the planet-forming zones of brown dwarf disks
+GY92-320,MIRI Medium Resolution Spectroscopy,3.89,3886.0,PI: Sierra Grant,Probing carbon chemistry and dust in the planet-forming zones of brown dwarf disks
+USCOCTIO-113,MIRI Medium Resolution Spectroscopy,3.38,3886.0,PI: Sierra Grant,Probing carbon chemistry and dust in the planet-forming zones of brown dwarf disks
+USCOCTIO-128,MIRI Medium Resolution Spectroscopy,3.81,3886.0,PI: Sierra Grant,Probing carbon chemistry and dust in the planet-forming zones of brown dwarf disks
+DENIS-J161005.4-191936,MIRI Medium Resolution Spectroscopy,3.78,3886.0,PI: Sierra Grant,Probing carbon chemistry and dust in the planet-forming zones of brown dwarf disks
+DENIS-J160603.9-205644,MIRI Medium Resolution Spectroscopy,2.51,3886.0,PI: Sierra Grant,Probing carbon chemistry and dust in the planet-forming zones of brown dwarf disks
+ISO-CHAI-217,MIRI Medium Resolution Spectroscopy,2.08,3886.0,PI: Sierra Grant,Probing carbon chemistry and dust in the planet-forming zones of brown dwarf disks
+ISO-CHAI-252,MIRI Medium Resolution Spectroscopy,1.85,3886.0,PI: Sierra Grant,Probing carbon chemistry and dust in the planet-forming zones of brown dwarf disks
+ISO-CHAI-138,MIRI Medium Resolution Spectroscopy,3.11,3886.0,PI: Sierra Grant,Probing carbon chemistry and dust in the planet-forming zones of brown dwarf disks
+2MASS-J16085953-3856275,MIRI Medium Resolution Spectroscopy,2.37,3886.0,PI: Sierra Grant,Probing carbon chemistry and dust in the planet-forming zones of brown dwarf disks
+2MASS-J16115979-3823383,MIRI Medium Resolution Spectroscopy,2.13,3886.0,PI: Sierra Grant,Probing carbon chemistry and dust in the planet-forming zones of brown dwarf disks
+CFHT-BD-TAU-9,MIRI Medium Resolution Spectroscopy,2.03,3886.0,PI: Sierra Grant,Probing carbon chemistry and dust in the planet-forming zones of brown dwarf disks
+2MASS-J04201611+2821325,MIRI Medium Resolution Spectroscopy,2.99,3886.0,PI: Sierra Grant,Probing carbon chemistry and dust in the planet-forming zones of brown dwarf disks
+FOMALHAUT,NIRCam Coronagraphic Imaging,3.31,3925.0,PI: Charles Beichman,Planets or Giant Collisions in the Fomalhaut Debris Disk System
+FOMALHAUT,NIRCam Coronagraphic Imaging,3.32,3925.0,PI: Charles Beichman,Planets or Giant Collisions in the Fomalhaut Debris Disk System
+ELIAS2-27,NIRCam Coronagraphic Imaging,1.55,3947.0,PI: Brendan Bowler,Testing the Giant Planet Hypothesis for Spiral-driven Arms in Protoplanetary Disks
+ELIAS2-27,NIRCam Coronagraphic Imaging,1.21,3947.0,PI: Brendan Bowler,Testing the Giant Planet Hypothesis for Spiral-driven Arms in Protoplanetary Disks
+TYC-6797-601-1,NIRCam Coronagraphic Imaging,1.28,3947.0,PI: Brendan Bowler,Testing the Giant Planet Hypothesis for Spiral-driven Arms in Protoplanetary Disks
+IM-LUP,NIRCam Coronagraphic Imaging,1.55,3947.0,PI: Brendan Bowler,Testing the Giant Planet Hypothesis for Spiral-driven Arms in Protoplanetary Disks
+IM-LUP,NIRCam Coronagraphic Imaging,1.21,3947.0,PI: Brendan Bowler,Testing the Giant Planet Hypothesis for Spiral-driven Arms in Protoplanetary Disks
+HD-137749,NIRCam Coronagraphic Imaging,1.15,3947.0,PI: Brendan Bowler,Testing the Giant Planet Hypothesis for Spiral-driven Arms in Protoplanetary Disks
+AB-AUR,NIRCam Coronagraphic Imaging,1.92,3947.0,PI: Brendan Bowler,Testing the Giant Planet Hypothesis for Spiral-driven Arms in Protoplanetary Disks
+AB-AUR,NIRCam Coronagraphic Imaging,1.58,3947.0,PI: Brendan Bowler,Testing the Giant Planet Hypothesis for Spiral-driven Arms in Protoplanetary Disks
+HD-31234,NIRCam Coronagraphic Imaging,0.97,3947.0,PI: Brendan Bowler,Testing the Giant Planet Hypothesis for Spiral-driven Arms in Protoplanetary Disks
+WAOPH6,NIRCam Coronagraphic Imaging,1.55,3947.0,PI: Brendan Bowler,Testing the Giant Planet Hypothesis for Spiral-driven Arms in Protoplanetary Disks
+WAOPH6,NIRCam Coronagraphic Imaging,1.21,3947.0,PI: Brendan Bowler,Testing the Giant Planet Hypothesis for Spiral-driven Arms in Protoplanetary Disks
+BD-13-4519,NIRCam Coronagraphic Imaging,1.22,3947.0,PI: Brendan Bowler,Testing the Giant Planet Hypothesis for Spiral-driven Arms in Protoplanetary Disks
+RU-LUP,NIRCam Coronagraphic Imaging,1.12,3947.0,PI: Brendan Bowler,Testing the Giant Planet Hypothesis for Spiral-driven Arms in Protoplanetary Disks
+RU-LUP,NIRCam Coronagraphic Imaging,1.21,3947.0,PI: Brendan Bowler,Testing the Giant Planet Hypothesis for Spiral-driven Arms in Protoplanetary Disks
+TYC-7320-262-1,NIRCam Coronagraphic Imaging,1.11,3947.0,PI: Brendan Bowler,Testing the Giant Planet Hypothesis for Spiral-driven Arms in Protoplanetary Disks
+PGZ2001-J160532.1-193315,NIRSpec IFU Spectroscopy,2.82,3962.0,PI: Benoit Tabone,A NIRSpec pilot program on planet-forming disks around very-low mass stars
+ISO-CHAI-147,NIRSpec IFU Spectroscopy,2.82,3962.0,PI: Benoit Tabone,A NIRSpec pilot program on planet-forming disks around very-low mass stars
+KEPLER-12,NIRSpec Bright Object Time Series,13.94,3969.0,PI: Nestor Espinoza  Co-PI: Diana Powell,Hot Jupiter Atmospheric Forecast: Are mornings cloudier than evenings in other worlds?
+KEPLER-12,NIRSpec Bright Object Time Series,13.94,3969.0,PI: Nestor Espinoza  Co-PI: Diana Powell,Hot Jupiter Atmospheric Forecast: Are mornings cloudier than evenings in other worlds?
+WASP-52,NIRSpec Bright Object Time Series,7.33,3969.0,PI: Nestor Espinoza  Co-PI: Diana Powell,Hot Jupiter Atmospheric Forecast: Are mornings cloudier than evenings in other worlds?
+HAT-P-65,NIRSpec Bright Object Time Series,13.16,3969.0,PI: Nestor Espinoza  Co-PI: Diana Powell,Hot Jupiter Atmospheric Forecast: Are mornings cloudier than evenings in other worlds?
+HAT-P-65,NIRSpec Bright Object Time Series,13.16,3969.0,PI: Nestor Espinoza  Co-PI: Diana Powell,Hot Jupiter Atmospheric Forecast: Are mornings cloudier than evenings in other worlds?
+HD-53143,NIRCam Coronagraphic Imaging,1.58,3973.0,PI: Timothy Pearce  Co-PI: Elisabeth Matthews,Using planets to dynamically weigh a debris disc for the first time
+HD-53143,NIRCam Imaging,1.53,3973.0,PI: Timothy Pearce  Co-PI: Elisabeth Matthews,Using planets to dynamically weigh a debris disc for the first time
+HD-53143,NIRCam Imaging,1.20,3973.0,PI: Timothy Pearce  Co-PI: Elisabeth Matthews,Using planets to dynamically weigh a debris disc for the first time
+HD-37501,NIRCam Coronagraphic Imaging,3.74,3973.0,PI: Timothy Pearce  Co-PI: Elisabeth Matthews,Using planets to dynamically weigh a debris disc for the first time
+ISO-CHAI-52,MIRI Medium Resolution Spectroscopy,1.52,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+CVSO-1942,MIRI Medium Resolution Spectroscopy,1.58,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+CHSM-13620,MIRI Medium Resolution Spectroscopy,1.03,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+2MASS-J16042165-2130284,MIRI Medium Resolution Spectroscopy,1.46,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+CVSO-156,MIRI Medium Resolution Spectroscopy,1.05,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+CVSO-298,MIRI Medium Resolution Spectroscopy,1.16,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+CVSO-1295,MIRI Medium Resolution Spectroscopy,1.22,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+CVSO-1545,MIRI Medium Resolution Spectroscopy,1.26,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+CVSO-1575,MIRI Medium Resolution Spectroscopy,1.11,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+CVSO-1711,MIRI Medium Resolution Spectroscopy,1.08,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+CVSO-1739,MIRI Medium Resolution Spectroscopy,1.89,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+CVSO-1772,MIRI Medium Resolution Spectroscopy,2.53,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+CVSO-1842,MIRI Medium Resolution Spectroscopy,2.47,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+CVSO-1886,MIRI Medium Resolution Spectroscopy,1.41,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+CVSO-1928,MIRI Medium Resolution Spectroscopy,1.02,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+2MASS-J16020757-2257467,MIRI Medium Resolution Spectroscopy,1.10,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+2MASS-J08074647-4711495,MIRI Medium Resolution Spectroscopy,2.97,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+2MASS-J08075546-4707460,MIRI Medium Resolution Spectroscopy,0.90,3983.0,PI: Thanawuth Thanathibodee  Co-PI: Catherine Espaillat,Searching for Evidence of EUV Photoevaporation in Actively Dispersing Protoplanetary Disks
+HD21997,NIRCam Coronagraphic Imaging,1.57,3989.0,PI: Sasha Hinkley  Co-PIs: Cecilia Lazzoni and Sebastian Marino,Spotting the Perturbers: A Coronagraphic Survey of Debris Disk Stars with Common Proper Motion Anomalies
+HD22333,NIRCam Coronagraphic Imaging,1.54,3989.0,PI: Sasha Hinkley  Co-PIs: Cecilia Lazzoni and Sebastian Marino,Spotting the Perturbers: A Coronagraphic Survey of Debris Disk Stars with Common Proper Motion Anomalies
+HD92945,NIRCam Coronagraphic Imaging,1.63,3989.0,PI: Sasha Hinkley  Co-PIs: Cecilia Lazzoni and Sebastian Marino,Spotting the Perturbers: A Coronagraphic Survey of Debris Disk Stars with Common Proper Motion Anomalies
+HD92973,NIRCam Coronagraphic Imaging,1.63,3989.0,PI: Sasha Hinkley  Co-PIs: Cecilia Lazzoni and Sebastian Marino,Spotting the Perturbers: A Coronagraphic Survey of Debris Disk Stars with Common Proper Motion Anomalies
+HD202628,NIRCam Coronagraphic Imaging,1.62,3989.0,PI: Sasha Hinkley  Co-PIs: Cecilia Lazzoni and Sebastian Marino,Spotting the Perturbers: A Coronagraphic Survey of Debris Disk Stars with Common Proper Motion Anomalies
+HD201865,NIRCam Coronagraphic Imaging,2.37,3989.0,PI: Sasha Hinkley  Co-PIs: Cecilia Lazzoni and Sebastian Marino,Spotting the Perturbers: A Coronagraphic Survey of Debris Disk Stars with Common Proper Motion Anomalies
+HD195627,NIRCam Coronagraphic Imaging,1.59,3989.0,PI: Sasha Hinkley  Co-PIs: Cecilia Lazzoni and Sebastian Marino,Spotting the Perturbers: A Coronagraphic Survey of Debris Disk Stars with Common Proper Motion Anomalies
+HD197051,NIRCam Coronagraphic Imaging,2.38,3989.0,PI: Sasha Hinkley  Co-PIs: Cecilia Lazzoni and Sebastian Marino,Spotting the Perturbers: A Coronagraphic Survey of Debris Disk Stars with Common Proper Motion Anomalies
+HD109085,NIRCam Coronagraphic Imaging,1.63,3989.0,PI: Sasha Hinkley  Co-PIs: Cecilia Lazzoni and Sebastian Marino,Spotting the Perturbers: A Coronagraphic Survey of Debris Disk Stars with Common Proper Motion Anomalies
+HD110418,NIRCam Coronagraphic Imaging,3.48,3989.0,PI: Sasha Hinkley  Co-PIs: Cecilia Lazzoni and Sebastian Marino,Spotting the Perturbers: A Coronagraphic Survey of Debris Disk Stars with Common Proper Motion Anomalies
+HD164249,NIRCam Coronagraphic Imaging,1.57,3989.0,PI: Sasha Hinkley  Co-PIs: Cecilia Lazzoni and Sebastian Marino,Spotting the Perturbers: A Coronagraphic Survey of Debris Disk Stars with Common Proper Motion Anomalies
+HD161708,NIRCam Coronagraphic Imaging,1.49,3989.0,PI: Sasha Hinkley  Co-PIs: Cecilia Lazzoni and Sebastian Marino,Spotting the Perturbers: A Coronagraphic Survey of Debris Disk Stars with Common Proper Motion Anomalies
+HD113337,NIRCam Coronagraphic Imaging,1.62,3989.0,PI: Sasha Hinkley  Co-PIs: Cecilia Lazzoni and Sebastian Marino,Spotting the Perturbers: A Coronagraphic Survey of Debris Disk Stars with Common Proper Motion Anomalies
+HD108399,NIRCam Coronagraphic Imaging,0.88,3989.0,PI: Sasha Hinkley  Co-PIs: Cecilia Lazzoni and Sebastian Marino,Spotting the Perturbers: A Coronagraphic Survey of Debris Disk Stars with Common Proper Motion Anomalies
+LHS3844LHS3844-TA,NIRSpec Bright Object Time Series,18.63,4008.0,PI: Sebastian Zieba,The search for regolith on the airless exoplanet LHS 3844 b
+HD34203,NIRCam Coronagraphic Imaging,1.40,4014.0,PI: Kevin Wagner,Imaging Planet Formation at its Earliest Stages: Measuring The Extinction Level of an Enshrouded Protoplanet
+MWC758,NIRCam Coronagraphic Imaging,1.11,4014.0,PI: Kevin Wagner,Imaging Planet Formation at its Earliest Stages: Measuring The Extinction Level of an Enshrouded Protoplanet
+MWC758,NIRCam Coronagraphic Imaging,1.08,4014.0,PI: Kevin Wagner,Imaging Planet Formation at its Earliest Stages: Measuring The Extinction Level of an Enshrouded Protoplanet
+TWA-43,NIRCam Coronagraphic Imaging,1.74,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-11A,NIRCam Coronagraphic Imaging,1.55,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+REF-M-VEL,NIRCam Coronagraphic Imaging,1.99,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-9A,NIRCam Coronagraphic Imaging,1.48,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-25,NIRCam Coronagraphic Imaging,1.33,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+REF-HD-101581,NIRCam Coronagraphic Imaging,1.19,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-12,NIRCam Coronagraphic Imaging,1.76,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-13A,NIRCam Coronagraphic Imaging,1.29,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-10,NIRCam Coronagraphic Imaging,1.49,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-47,NIRCam Coronagraphic Imaging,1.38,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+REF-CD-23-9765,NIRCam Coronagraphic Imaging,1.81,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-1,NIRCam Coronagraphic Imaging,1.76,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-8A,NIRCam Coronagraphic Imaging,1.41,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-23A,NIRCam Coronagraphic Imaging,1.40,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-20A,NIRCam Coronagraphic Imaging,1.47,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-46,NIRCam Coronagraphic Imaging,1.31,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+REF-HD-89063,NIRCam Coronagraphic Imaging,1.23,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-7,NIRCam Coronagraphic Imaging,1.76,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-33,NIRCam Coronagraphic Imaging,1.44,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-45,NIRCam Coronagraphic Imaging,1.48,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-35,NIRCam Coronagraphic Imaging,1.42,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+REF-IRAS-09047-4526,NIRCam Coronagraphic Imaging,1.74,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-34,NIRCam Coronagraphic Imaging,1.55,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+J1058-2346,NIRCam Coronagraphic Imaging,1.38,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-30A,NIRCam Coronagraphic Imaging,1.41,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-36,NIRCam Coronagraphic Imaging,1.36,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-44,NIRCam Coronagraphic Imaging,1.32,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+REF-SIPS-J1141-3624,NIRCam Coronagraphic Imaging,1.94,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-26,NIRCam Coronagraphic Imaging,1.74,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+TWA-29,NIRCam Coronagraphic Imaging,1.52,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+REF-IRAS-13041-5653,NIRCam Coronagraphic Imaging,0.92,4050.0,PI: Aarynn Carter,Uncharted Worlds: Towards a Legacy of Direct Imaging of Sub-Jupiter Mass Exoplanets
+WASP-96,NIRSpec Bright Object Time Series,6.68,4082.0,PI: Michael Radica  Co-PI: Jake Taylor,Putting it all Together: Dynamics and Chemistry Probed Through Transmission Spectroscopy of a Cloud-Free Exoplanet
+V-DG-CRA,NIRCam Coronagraphic Imaging,1.77,4090.0,PI: Christian Ginski  Co-PI: Julien Girard,Follow the trace: Direct detection of a dynamically ejected young planet outside a circumbinary disk
+V-DG-CRA,NIRCam Coronagraphic Imaging,1.44,4090.0,PI: Christian Ginski  Co-PI: Julien Girard,Follow the trace: Direct detection of a dynamically ejected young planet outside a circumbinary disk
+CD-36-13007,NIRCam Coronagraphic Imaging,1.42,4090.0,PI: Christian Ginski  Co-PI: Julien Girard,Follow the trace: Direct detection of a dynamically ejected young planet outside a circumbinary disk
+L98-59,NIRISS Single-Object Slitless Spectroscopy,4.99,4098.0,PI: Bjorn Benneke  Co-PI: Thomas Mikal-Evans,Exploring the existence and diversity of volatile-rich water worlds
+L98-59ACQ-STAR-FOR-L98-59,NIRSpec Bright Object Time Series,5.34,4098.0,PI: Bjorn Benneke  Co-PI: Thomas Mikal-Evans,Exploring the existence and diversity of volatile-rich water worlds
+TOI-1685,NIRISS Single-Object Slitless Spectroscopy,4.46,4098.0,PI: Bjorn Benneke  Co-PI: Thomas Mikal-Evans,Exploring the existence and diversity of volatile-rich water worlds
+TOI-1685,NIRISS Single-Object Slitless Spectroscopy,4.46,4098.0,PI: Bjorn Benneke  Co-PI: Thomas Mikal-Evans,Exploring the existence and diversity of volatile-rich water worlds
+GJ9827,NIRISS Single-Object Slitless Spectroscopy,5.08,4098.0,PI: Bjorn Benneke  Co-PI: Thomas Mikal-Evans,Exploring the existence and diversity of volatile-rich water worlds
+GJ9827,NIRISS Single-Object Slitless Spectroscopy,5.08,4098.0,PI: Bjorn Benneke  Co-PI: Thomas Mikal-Evans,Exploring the existence and diversity of volatile-rich water worlds
+GJ9827ACQ-STAR-FOR-GJ9827,NIRSpec Bright Object Time Series,5.10,4098.0,PI: Bjorn Benneke  Co-PI: Thomas Mikal-Evans,Exploring the existence and diversity of volatile-rich water worlds
+GJ9827ACQ-STAR-FOR-GJ9827,NIRSpec Bright Object Time Series,5.10,4098.0,PI: Bjorn Benneke  Co-PI: Thomas Mikal-Evans,Exploring the existence and diversity of volatile-rich water worlds
+GJ3090,NIRISS Single-Object Slitless Spectroscopy,5.20,4098.0,PI: Bjorn Benneke  Co-PI: Thomas Mikal-Evans,Exploring the existence and diversity of volatile-rich water worlds
+GJ3090,NIRISS Single-Object Slitless Spectroscopy,5.20,4098.0,PI: Bjorn Benneke  Co-PI: Thomas Mikal-Evans,Exploring the existence and diversity of volatile-rich water worlds
+GJ3090ACQ-STAR-FOR-GJ3090,NIRSpec Bright Object Time Series,5.16,4098.0,PI: Bjorn Benneke  Co-PI: Thomas Mikal-Evans,Exploring the existence and diversity of volatile-rich water worlds
+GJ3090ACQ-STAR-FOR-GJ3090,NIRSpec Bright Object Time Series,5.16,4098.0,PI: Bjorn Benneke  Co-PI: Thomas Mikal-Evans,Exploring the existence and diversity of volatile-rich water worlds
+TOI-270,NIRISS Single-Object Slitless Spectroscopy,7.21,4098.0,PI: Bjorn Benneke  Co-PI: Thomas Mikal-Evans,Exploring the existence and diversity of volatile-rich water worlds
+TOI-270ACQ-STAR-FOR-TOI-270,NIRSpec Bright Object Time Series,7.23,4098.0,PI: Bjorn Benneke  Co-PI: Thomas Mikal-Evans,Exploring the existence and diversity of volatile-rich water worlds
+TOI-270ACQ-STAR-FOR-TOI-270,NIRSpec Bright Object Time Series,7.23,4098.0,PI: Bjorn Benneke  Co-PI: Thomas Mikal-Evans,Exploring the existence and diversity of volatile-rich water worlds
+TOI-824,NIRSpec Bright Object Time Series,6.69,4102.0,PI: Pierre-Alexis Roy  Co-PI: Bjorn Benneke,Hydrogen-rich sub-Neptune or exposed Neptune mantle? Confirming the nature of the most favorable sub-Neptune for JWST emission spectroscopy
+TOI-824,NIRSpec Bright Object Time Series,6.69,4102.0,PI: Pierre-Alexis Roy  Co-PI: Bjorn Benneke,Hydrogen-rich sub-Neptune or exposed Neptune mantle? Confirming the nature of the most favorable sub-Neptune for JWST emission spectroscopy
+HAT-P-1119505049+4805017,NIRSpec Bright Object Time Series,7.11,4105.0,PI: Lili Alderson  Co-PI: Charlotte Fairman,Not Your Normal Neptune: Exploring the Chemical Processes at Play in HAT-P-11b
+HAT-P-1119505049+4805017,NIRSpec Bright Object Time Series,7.11,4105.0,PI: Lili Alderson  Co-PI: Charlotte Fairman,Not Your Normal Neptune: Exploring the Chemical Processes at Play in HAT-P-11b
+TOI-125TOI-125-TA-STAR,NIRSpec Bright Object Time Series,9.92,4126.0,PI: Chloe Fisher,TOI-125: Comparative Atmospheric Chemistry Within One System
+TOI-125TOI-125-TA-STAR,NIRSpec Bright Object Time Series,9.90,4126.0,PI: Chloe Fisher,TOI-125: Comparative Atmospheric Chemistry Within One System
+TOI-16852MASS04342521+4302330,NIRSpec Bright Object Time Series,6.18,4195.0,PI: Chloe Fisher,Constraining the Oxidation State of the Super-Earth TOI-1685 b
+TOI-16852MASS04342521+4302330,NIRSpec Bright Object Time Series,6.18,4195.0,PI: Chloe Fisher,Constraining the Oxidation State of the Super-Earth TOI-1685 b
+TOI-16852MASS04342521+4302330,NIRSpec Bright Object Time Series,6.18,4195.0,PI: Chloe Fisher,Constraining the Oxidation State of the Super-Earth TOI-1685 b
+TOI-16852MASS04342521+4302330,NIRSpec Bright Object Time Series,6.18,4195.0,PI: Chloe Fisher,Constraining the Oxidation State of the Super-Earth TOI-1685 b
+TOI-1899,NIRSpec Bright Object Time Series,12.61,4227.0,PI: Alastair Claringbold  Co-PI: Peter Wheatley,Chemistry and Clouds of a Temperate Jupiter
+2MASS-J04302705+3545505,NIRCam Imaging,1.15,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+2MASS-J04302705+3545505,MIRI Imaging,0.54,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+ESO-HA-569,NIRCam Imaging,1.67,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+ESO-HA-569,MIRI Imaging,0.54,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+ESO-HA-569,MIRI Imaging,1.46,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+ESO-HA-574,NIRCam Imaging,1.04,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+ESO-HA-574,MIRI Imaging,0.50,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+2MASS-J16070384-3911113,NIRCam Imaging,1.50,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+2MASS-J16070384-3911113,MIRI Imaging,0.54,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+2MASS-J16313679-2404200,NIRCam Imaging,1.50,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+2MASS-J16313679-2404200,MIRI Imaging,0.54,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+PDS-144N,NIRCam Imaging,0.97,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+PDS-144N,MIRI Imaging,0.50,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+V-HK-TAU,NIRCam Imaging,1.67,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+V-HV-TAU,NIRCam Imaging,1.50,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+V-HV-TAU,MIRI Imaging,0.54,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+CB-26,NIRCam Imaging,1.67,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+CB-26,MIRI Imaging,1.24,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+CHA-IR-NEBULA,NIRCam Imaging,0.97,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+CHA-IR-NEBULA,MIRI Imaging,0.88,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+GOMEZ-HAMBURGER,NIRCam Imaging,1.71,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+GOMEZ-HAMBURGER,MIRI Imaging,1.23,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+HH-200,NIRCam Imaging,1.50,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+HH-200,MIRI Imaging,0.83,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+FLYING-SAUCER,NIRCam Imaging,1.27,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+FLYING-SAUCER,MIRI Imaging,0.85,4290.0,PI: Francois Menard  Co-PI: Karl Stapelfeldt,Dust Settling and Grain Evolution across the Nearby Population of Edge-on Protoplanetary Disks
+WD1748,MIRI Imaging,1.53,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD0046,MIRI Imaging,1.52,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD1142,MIRI Imaging,1.52,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD0552,MIRI Imaging,1.53,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD0553,MIRI Imaging,1.53,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD0752,MIRI Imaging,1.53,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD1334,MIRI Imaging,1.53,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD2359,MIRI Imaging,1.52,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD2251,MIRI Imaging,1.53,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD0038,MIRI Imaging,1.53,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD0738,MIRI Imaging,1.52,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD0435,MIRI Imaging,1.53,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD1917,MIRI Imaging,1.52,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD0912,MIRI Imaging,1.53,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD0310,MIRI Imaging,1.52,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD1202,MIRI Imaging,1.52,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD0821,MIRI Imaging,1.53,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
+WD0009,MIRI Imaging,1.53,4403.0,PI: Mary Anne Limbach  Co-PI: Andrew Vanderburg,The MIRI survey for Exoplanets Orbiting White-dwarfs (MEOW)
