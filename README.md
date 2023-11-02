@@ -1,15 +1,15 @@
 # JWST Cycle 1 Target Scraper
 -----------------------------
 
-Are you wondering what exoplanet targets will be observed during Cycle 1? This code and list can help. 
+Are you wondering what exoplanet targets will be observed in different JWST Cycles? This code and list can help. 
 
 Author: Nestor Espinoza (nespinoza@stsci.edu)
 
 ## What does this code do?
 
-The `create_targets.py` python code simply does some data scraping from the Cycle 1 GO results at [STScI's webpage](https://www.stsci.edu/jwst/science-execution/approved-programs/cycle-1-go) and extracts the names of the targets _as inputted by the GO proposers_ on the accepted GO proposals. Only the first table (i.e., the "Exoplanets and Disks") is currently exported by the code, but with simple modifications this can provide the same list for the other tables.
+The `create_targets.py` python code simply does some data scraping from a given webapge of GO results at STScI's webpage ([e.g., the Cycle 1 webpage](https://www.stsci.edu/jwst/science-execution/approved-programs/cycle-1-go)) and extracts the names of the targets _as inputted by the GO proposers_ on the accepted GO proposals. Only the first table (i.e., the "Exoplanets and Disks") is currently exported by the code, but with simple modifications this can provide the same list for the other tables.
 
-Results of all the exoplanets & disk targets are saved to the `targets_cycle1.csv` file.
+Results of all the exoplanets & disk targets are saved to a csv file.
 
 ## Limitations
 
