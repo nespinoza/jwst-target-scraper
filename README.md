@@ -1,4 +1,4 @@
-# JWST Cycle 1 Target Scraper
+# JWST Cycle 1-2 Target Scraper
 -----------------------------
 
 Are you wondering what exoplanet targets will be observed in different JWST Cycles? This code and list can help. 
